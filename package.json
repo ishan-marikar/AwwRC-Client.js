@@ -1,0 +1,19 @@
+{
+  "name": "awwrc-client.js",
+  "version": "0.0.0",
+  "description": "An AwwRC client implementation in Javascript",
+  "main": "client.js",
+  "dependencies": {
+    "chalk": "~1.1.0",
+    "readline-sync": "^1.2.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node client.js"
+  },
+  "keywords": [
+    "awwrc"
+  ],
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "MIT"
+}
