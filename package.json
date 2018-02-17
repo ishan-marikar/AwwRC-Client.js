@@ -5,7 +5,7 @@
   "main": "client.js",
   "dependencies": {
     "chalk": "~1.1.0",
-    "readline-sync": "^1.2.19"
+    "readline-sync": "^1.4.9"
   },
   "devDependencies": {},
   "scripts": {
